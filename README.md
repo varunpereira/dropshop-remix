@@ -1,1 +1,0 @@
-# dropshop-remix
